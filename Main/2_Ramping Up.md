@@ -1,7 +1,7 @@
 # Ramping Up
 
 ## Task 1: Detach yo' HEAD
-![App Screenshot](SS/T2_1.png)
+![App Screenshot](../SS/Main/T2_1.png)
 
 
 ### Commands used:
@@ -9,7 +9,7 @@
 
 
 ## Task 2: Relative Refs (^)
-![App Screenshot](SS/T2_2.png)
+![App Screenshot](../SS/Main/T2_2.png)
 
 
 ### Commands used:
@@ -17,7 +17,7 @@
 
 
 ## Task 3: Relative Refs #2 (~)
-![App Screenshot](SS/T2_3.png)
+![App Screenshot](../SS/Main/T2_3.png)
 
 
 ### Commands used:
@@ -26,7 +26,7 @@
 
 
 ## Task 4: Reversing changes in Git
-![App Screenshot](SS/T2_4.png)
+![App Screenshot](../SS/Main/T2_4.png)
 
 
 ### Commands used:

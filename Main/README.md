@@ -17,4 +17,4 @@
 3. Use the visual representation to understand how Git commands modify the repository.
 
 ## Screenshot
-![App Screenshot](SS/All_tasks.png)
+![App Screenshot](../SS/Main/All_tasks.png)

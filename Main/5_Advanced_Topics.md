@@ -1,7 +1,7 @@
 # Advanced Topics
 
 ## Task 1: Rebasing over 9000 times
-![App Screenshot](SS/T5_1.png)
+![App Screenshot](../SS/Main/T5_1.png)
 
 
 ### Commands used:
@@ -10,7 +10,7 @@
 
 
 ## Task 2: Multiple Parents
-![App Screenshot](SS/T5_2.png)
+![App Screenshot](../SS/Main/T5_2.png)
 
 
 ### Commands used:
@@ -19,7 +19,7 @@
 
   
 ## Task 3: Branch Spaghetti
-![App Screenshot](SS/T5_3.png)
+![App Screenshot](../SS/Main/T5_3.png)
 
 
 ### Commands used:

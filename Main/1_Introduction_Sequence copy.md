@@ -1,7 +1,7 @@
 # Introduction Sequence
 
 ## Task 1: Introduction to Git Commits
-![App Screenshot](SS/T1_1.png)
+![App Screenshot](../../SS/Main/Main/T1_1.png)
 
 
 ### Commands used:
@@ -9,7 +9,7 @@
 
 
 ## Task 2: Branching in Git
-![App Screenshot](SS/T1_2.png)
+![App Screenshot](../../SS/Main/Main/T1_2.png)
 
 
 ### Commands used:
@@ -18,7 +18,7 @@
 
 
 ## Task 3: Merging in Git
-![App Screenshot](SS/T1_3.png)
+![App Screenshot](../SS/Main/T1_3.png)
 
 
 ### Commands used:
@@ -28,7 +28,7 @@
 
 
 ## Task 4: Rebase Introduction
-![App Screenshot](SS/T1_4.png)
+![App Screenshot](../SS/Main/T1_4.png)
 
 
 ### Commands used:
